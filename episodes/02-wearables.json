@@ -1,22 +1,19 @@
 {
-    "title":  "Item Title",
-    "description": "Use this for the content. It can include html.",
-    "url": "http://example.com/article4?this&that",
-    "guid": 1123,
+    "title":  "Episode 2: Wearables",
+    "description": "Paul, Josh and Mark discuss the past, present and future of wearable technologies.",
+    "url": "http://thefutureof.io/tfo-02-wearable-technology/",
     "categories": [
-        "Category 1", "Category 2", "Category 3", "Category 4"
+        "Technology", "Gadgets", "Culture"
     ],
-    "author": "Guest Author",
-    "date": "May 27, 2012",
-    "lat": 33.417974,
-    "long": -111.933231,
+    "date": "May 1, 2016",
     "enclosure": {
         "url": "http://thefutureof.io/episodes/02-wearables.mp3"
     },
     "custom_elements": [
-        { "itunes:author": "John Doe" },
-        { "itunes:subtitle": "A short primer on table spices" },
-        { "itunes:duration": "7:04" },
-        { "itunes:image": { "_attr": { "href": "http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg" } }}
+        { "itunes:author": "Paul MacEoin, Joshua Csucker and Mark Grealish" },
+        { "itunes:explicit": false },
+        { "itunes:subtitle": "The past and future of wearable technologies" },
+        { "itunes:duration": "45:08" },
+        { "itunes:image": { "_attr": { "href": "http://thefutureof.io/episodes/covers/02-wearables.png" } }}
     ]
 }

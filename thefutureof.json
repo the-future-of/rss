@@ -19,6 +19,7 @@
     "custom_elements": [
         { "itunes:subtitle": "...where infinity awaits!" },
         { "itunes:author": "Paul MacEoin" },
+        { "itunes:explicit": false },
         { "itunes:summary": "Technology news, and the long view on the effects of technology on society." },
         { "itunes:owner": [
             { "itunes:name": "Paul MacEoin" },

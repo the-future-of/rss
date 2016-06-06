@@ -1,22 +1,19 @@
 {
-    "title":  "Item Title",
-    "description": "Use this for the content. It can include html.",
-    "url": "http://example.com/article4?this&that",
-    "guid": 1123,
+    "title":  "Episode 1: Privacy",
+    "description": "Paul and Mark discuss Internet privacy and surveillance commerce.",
+    "url": "http://thefutureof.io/tfo-01-privacy-old-man-yells-at-cloud-2/",
     "categories": [
-        "Category 1", "Category 2", "Category 3", "Category 4"
+        "Technology", "Gadgets", "Culture"
     ],
-    "author": "Guest Author",
-    "date": "May 27, 2012",
-    "lat": 33.417974,
-    "long": -111.933231,
+    "date": "May 1, 2016",
     "enclosure": {
         "url": "http://thefutureof.io/episodes/01-privacy.mp3"
     },
     "custom_elements": [
-        { "itunes:author": "John Doe" },
-        { "itunes:subtitle": "A short primer on table spices" },
-        { "itunes:duration": "7:04" },
-        { "itunes:image": { "_attr": { "href": "http://example.com/podcasts/everything/AllAboutEverything/Episode1.jpg" } }}
+        { "itunes:author": "Paul MacEoin and Mark Grealish" },
+        { "itunes:explicit": false },
+        { "itunes:subtitle": "Internet privacy and the surveillance economy." },
+        { "itunes:duration": "51:13" },
+        { "itunes:image": { "_attr": { "href": "http://thefutureof.io/episodes/covers/01-privacy.png" } }}
     ]
 }
