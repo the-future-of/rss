@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!index.js
+!package.json
+!thefutureof.json
+!episodes/*.json
