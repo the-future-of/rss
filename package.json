@@ -1,0 +1,23 @@
+{
+  "name": "teefo-rss",
+  "version": "1.0.0",
+  "description": "RSS feeds for 'The Future Of' podcast.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mark Grealish <mark@bhalash.com> (https://www.bhalash.com)",
+  "license": "MIT",
+  "dependencies": {
+    "require-dir": "^0.3.0",
+    "rss": "^1.2.1",
+    "http": "^0.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "rss",
+    "podcast",
+    "feed",
+    "node-rss"
+  ]
+}

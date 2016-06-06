@@ -1,0 +1,38 @@
+{
+    "title": "The Future Of",
+    "description": "description",
+    "feed_url": "http://episodes.thefutureof.io",
+    "site_url": "http://thefutureof.io",
+    "image_url": "http://episodes.thefutureof.io/icon.png",
+    "docs": "http://episodes.thefutureof.io/rss/docs.html",
+    "managingEditor": "Paul MacEoin",
+    "webMaster": "Mark Grealish",
+    "copyright": "2016 Mark Grealish and Paul MacEoin",
+    "language": "en",
+    "categories": [
+        "Technology", "Gadgets", "Culture"
+    ],
+    "pubDate": "June 1, 2016 00:00:00 GMT",
+    "ttl": "60",
+    "custom_namespaces": {
+        "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
+    },
+    "custom_elements": [
+        { "itunes:subtitle": "A show about everything" },
+        { "itunes:author": "Paul MacEoin" },
+        { "itunes:summary": "All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our podcast in the Podcasts app or in the iTunes Store" },
+        { "itunes:owner": [
+            { "itunes:name": "Paul MacEoin" },
+            { "itunes:email": "paul@thefutureof.io" }
+        ]},
+        { "itunes:image": {
+            "_attr": {
+                "href": "http://example.com/podcasts/everything/AllAboutEverything.jpg"
+            }
+        }},
+        { "itunes:category": [
+            { "_attr": { "text": "Technology" }},
+            { "itunes:category": { "_attr": { "text": "Gadgets" } }}
+        ]}
+    ]
+}
