@@ -1,10 +1,9 @@
 {
     "title": "The Future Of",
-    "description": "description",
-    "feed_url": "http://episodes.thefutureof.io",
+    "description": "The Future Of: technology news and the long view on the effects of technology on society.",
+    "feed_url": "http://thefutureof.io/rss/episodes",
     "site_url": "http://thefutureof.io",
-    "image_url": "http://episodes.thefutureof.io/icon.png",
-    "docs": "http://episodes.thefutureof.io/rss/docs.html",
+    "image_url": "http://thefutureof.io/media/TFOcover.png",
     "managingEditor": "Paul MacEoin",
     "webMaster": "Mark Grealish",
     "copyright": "2016 Mark Grealish and Paul MacEoin",
@@ -18,16 +17,16 @@
         "itunes": "http://www.itunes.com/dtds/podcast-1.0.dtd"
     },
     "custom_elements": [
-        { "itunes:subtitle": "A show about everything" },
+        { "itunes:subtitle": "...where infinity awaits!" },
         { "itunes:author": "Paul MacEoin" },
-        { "itunes:summary": "All About Everything is a show about everything. Each week we dive into any subject known to man and talk about it as much as we can. Look for our podcast in the Podcasts app or in the iTunes Store" },
+        { "itunes:summary": "Technology news, and the long view on the effects of technology on society." },
         { "itunes:owner": [
             { "itunes:name": "Paul MacEoin" },
             { "itunes:email": "paul@thefutureof.io" }
         ]},
         { "itunes:image": {
             "_attr": {
-                "href": "http://example.com/podcasts/everything/AllAboutEverything.jpg"
+                "href": "http://thefutureof.io/media/TFOcover.png"
             }
         }},
         { "itunes:category": [
