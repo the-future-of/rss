@@ -1,13 +1,8 @@
 var rss = require('rss'),
     http = require('http'),
-    dir = require('require-dir'),
-    opts,
-    epsides,
-    feed;
-
-opts = require('./thefutureof.json');
-episodes = dir('./episodes/');
-feed = new rss(opts);
+    opts = require('./thefutureof.json'),
+    episodes = require('require-dir')('./episodes/'),
+    feed = new rss(opts);
 
 Object.keys(episodes).forEach(ep => feed.item(episodes[ep]));
 
