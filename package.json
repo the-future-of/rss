@@ -4,19 +4,21 @@
   "description": "RSS feeds for 'The Future Of' podcast.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "forever start index.js",
+    "stop": "forever stop index.js"
   },
   "author": "Mark Grealish <mark@bhalash.com> (https://www.bhalash.com)",
   "license": "MIT",
   "repository": {
-      "url": "git+ssh://git@github.com/the-future-of/rss.git",
-      "type": "git"
+    "url": "git+ssh://git@github.com/the-future-of/rss.git",
+    "type": "git"
   },
   "homepage": "http://www.thefutureof.io",
   "dependencies": {
+    "forever": "^0.15.2",
+    "http": "^0.0.0",
     "require-dir": "^0.3.0",
-    "rss": "^1.2.1",
-    "http": "^0.0.0"
+    "rss": "^1.2.1"
   },
   "devDependencies": {},
   "keywords": [
