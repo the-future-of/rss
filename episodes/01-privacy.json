@@ -7,7 +7,8 @@
     ],
     "date": "May 1, 2016",
     "enclosure": {
-        "url": "http://thefutureof.io/episodes/01-privacy.mp3"
+        "url": "http://thefutureof.io/episodes/01-privacy.mp3",
+        "_attr": { "length": 54046862 }
     },
     "custom_elements": [
         { "itunes:author": "Paul MacEoin and Mark Grealish" },

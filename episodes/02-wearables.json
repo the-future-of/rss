@@ -7,7 +7,8 @@
     ],
     "date": "May 15, 2016",
     "enclosure": {
-        "url": "http://thefutureof.io/episodes/02-wearables.mp3"
+        "url": "http://thefutureof.io/episodes/02-wearables.mp3",
+        "_attr": { "length": 65140577 }
     },
     "custom_elements": [
         { "itunes:author": "Paul MacEoin, Joshua Csucker and Mark Grealish" },
