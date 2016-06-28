@@ -1,0 +1,20 @@
+{
+    "title":  "Episode 3: Smart Homes",
+    "description": "Paul, Mark and guest Christopher discuss the past, present and future of the connected home.",
+    "url": "http://thefutureof.io/episode-03-the-smart-home-worst-standards-ever/",
+    "categories": [
+        "Technology", "Gadgets", "Culture"
+    ],
+    "date": "June 28, 2016",
+    "enclosure": {
+        "url": "http://thefutureof.io/episodes/03-smarthome.mp3",
+        "size": 84765618
+    },
+    "custom_elements": [
+        { "itunes:author": "Paul MacEoin, Mark Grealish and Christopher Tierney" },
+        { "itunes:explicit": false },
+        { "itunes:subtitle": "Paul, Mark and Christopher find connected homes wanting." },
+        { "itunes:duration": "58:47" },
+        { "itunes:image": { "_attr": { "href": "http://thefutureof.io/episodes/covers/03-smarthome.png" } }}
+    ]
+}
