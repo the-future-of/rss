@@ -1,9 +1,11 @@
 *
 
 !.gitignore
+!.travis.yml
 !LICENSE
 !README.md
 !index.js
 !package.json
 !thefutureof.json
+
 !episodes/*.json
